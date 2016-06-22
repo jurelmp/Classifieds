@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Classifieds\Http\Controllers\Auth;
 
-use App\User;
+use Classifieds\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Classifieds\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

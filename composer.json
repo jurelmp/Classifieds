@@ -20,7 +20,7 @@
             "app/Models"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "Classifieds\\": "app/"
         }
     },
     "autoload-dev": {

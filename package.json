@@ -11,11 +11,17 @@
   },
   "devDependencies": {
     "axios": "^0.16.2",
-    "bootstrap-sass": "^3.3.7",
+    "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.1",
+    "font-awesome": "^4.7.0",
+    "foundation-sites": "^6.4.3",
     "jquery": "^3.1.1",
     "laravel-mix": "^1.0",
     "lodash": "^4.17.4",
-    "vue": "^2.1.10"
-  }
+    "motion-ui": "^1.2.3",
+    "vue": "^2.1.10",
+    "vue-router": "^2.7.0",
+    "vuex": "^2.3.1"
+  },
+  "dependencies": {}
 }

@@ -11,4 +11,4 @@
 
 // Include everything from foundation and
 // use flex-grid for our grid system.
-@include foundation-everything($flex: true);
+@include foundation-everything($flex: false);
